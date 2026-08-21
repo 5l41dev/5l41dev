@@ -22,26 +22,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## `about me`
-
-**5l41dev**
-
-developer · builder · creator
-
-I build software, websites, tools and random things that I find interesting.
-
-Currently exploring **systems programming, web development, game technology and automation.**
-
-</div>
-
----
-
-<div align="center">
-
 ## `tech stack`
 
 <img src="https://skillicons.dev/icons?i=cpp,rust,python,cs,ts,js,java,html,css,react,nextjs,nodejs,git,github,linux,vscode&theme=light" />
