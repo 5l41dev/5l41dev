@@ -6,16 +6,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=3500&pause=800&color=E8E2D9&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=Hello+hello+%E2%98%86;I'm+5l41%2C+a+developer+%E2%9C%A7">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=3500&pause=800&color=3D3025&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=Hello+hello+%E2%98%86;I'm+5l41%2C+a+developer+%E2%9C%A7">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=3500&pause=800&color=3D3025&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=130&lines=Hello+hello+%E2%98%86;I'm+5l41%2C+a+developer+%E2%9C%A7" alt="Hello hello, I'm 5l41, a developer">
-</picture>
-
-<br>
-
-<img src="https://wsrv.nl/?url=github.com%2F5l41dev.png&output=png&mask=circle" width="125" height="125" alt="5l41">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=17&duration=3000&pause=1000&color=8FA56F&center=true&vCenter=true&width=700&lines=creating+%E2%80%A2+experimenting+%E2%80%A2+breaking+%E2%80%A2+rebuilding;code%2C+games%2C+systems+%26+random+ideas">
+ <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=17&duration=3000&pause=1000&color=8FA56F&center=true&vCenter=true&width=700&lines=creating+%E2%80%A2+experimenting+%E2%80%A2+breaking+%E2%80%A2+rebuilding;code%2C+games%2C+systems+%26+random+ideas">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=17&duration=3000&pause=1000&color=657A50&center=true&vCenter=true&width=700&lines=creating+%E2%80%A2+experimenting+%E2%80%A2+breaking+%E2%80%A2+rebuilding;code%2C+games%2C+systems+%26+random+ideas">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=400&size=17&duration=3000&pause=1000&color=657A50&center=true&vCenter=true&width=700&lines=creating+%E2%80%A2+experimenting+%E2%80%A2+breaking+%E2%80%A2+rebuilding;code%2C+games%2C+systems+%26+random+ideas" alt="creating, experimenting, breaking, rebuilding">
 </picture>
