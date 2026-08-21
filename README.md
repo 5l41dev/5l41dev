@@ -30,14 +30,6 @@
 
 <br>
 
-<div align="center">
-
-### `languages I use most`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5l41dev&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&langs_count=8" />
-
-</div>
-
 ---
 
 <div align="center">
