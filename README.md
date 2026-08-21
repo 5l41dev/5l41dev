@@ -56,13 +56,6 @@
 <img src="https://img.shields.io/badge/STARS-VIEW-ffffff?style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff" />
 </a>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=5l41dev&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&icon_color=000000&include_all_commits=true&count_private=true" />
-
-</div>
-
----
 
 <div align="center">
 
