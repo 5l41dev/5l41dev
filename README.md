@@ -1,28 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=500&lines=5l41dev;hey%2C+I'm+5;developer;builder;creator" alt="5l41dev" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1200&color=111111&center=true&vCenter=true&width=500&lines=5l41dev;hey%2C+I'm+5;developer;builder;creator" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1800&color=555555&center=true&vCenter=true&width=420&lines=developer+%7C+builder+%7C+creator;turning+ideas+into+code" alt="Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1800&color=666666&center=true&vCenter=true&width=450&lines=developer+%7C+builder+%7C+creator;check+my+biolink+nex4.xyz" />
 
 <br><br>
 
-<img src="https://github.com/5l41dev.png" width="130" alt="5l41dev" />
+<img src="https://github.com/5l41dev.png" width="130" />
 
 <br><br>
 
 <a href="https://github.com/5l41dev">
-<img src="https://img.shields.io/github/followers/5l41dev?style=flat-square&color=ffffff&labelColor=000000&logo=github&logoColor=ffffff&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/5l41dev?style=flat-square&label=followers&color=ffffff&labelColor=111111&logo=github&logoColor=ffffff" />
 </a>
-&nbsp;
+
 <a href="https://github.com/5l41dev?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-5-ffffff?style=flat-square&labelColor=000000&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/repositories-5-ffffff?style=flat-square&labelColor=111111&logo=github&logoColor=ffffff" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=5l41dev&style=flat-square&color=ffffff&label=PROFILE+VIEWS" />
+<a href="https://github.com/5l41dev">
+<img src="https://komarev.com/ghpvc/?username=5l41dev&style=flat-square&color=ffffff&label=views&labelColor=111111" />
+</a>
 
-</div>
+<br>
 
-## `tech stack`
+<br>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,rust,python,cs,ts,js,java,html,css,react,nextjs,nodejs,git,github,linux,vscode&theme=light" />
 
@@ -30,45 +34,34 @@
 
 <br>
 
----
-
 <div align="center">
 
-## `activity`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5l41dev&bg_color=ffffff&color=000000&line=000000&point=555555&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=5l41dev&bg_color=ffffff&color=111111&line=111111&point=555555&area=true&hide_border=true" width="95%" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## `github`
-
-<a href="https://github.com/5l41dev?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-ffffff?style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff" />
-</a>
-
- 
-
-<a href="https://github.com/5l41dev?tab=stars">
-<img src="https://img.shields.io/badge/STARS-VIEW-ffffff?style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff" />
-</a>
-
+</div>
 
 <div align="center">
 
-## `connect`
-
-<a href="https://github.com/5l41dev">
-<img src="https://img.shields.io/badge/GITHUB-5l41dev-ffffff?style=flat-square&labelColor=000000&logo=github&logoColor=ffffff" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=1&width=90%" />
 
 <br><br>
 
-<a href="https://github.com/5l41dev?tab=followers">
-<img src="https://img.shields.io/badge/FOLLOW-5l41dev-ffffff?style=flat-square&labelColor=000000&logo=github&logoColor=ffffff" />
+<a href="https://github.com/5l41dev">
+<img src="https://img.shields.io/badge/github-111111?style=flat&logo=github&logoColor=white" />
+</a>
+
+<img src="https://i.pinimg.com/originals/fc/01/06/fc0106026cb93e313abee670aba1133a.gif" width="100" />
+
+<br><br>
+
+<a href="https://github.com/5l41dev?tab=repositories">
+<img src="https://img.shields.io/badge/explore%20my%20repositories-ffffff?style=flat-square&labelColor=111111&logo=github&logoColor=ffffff" />
 </a>
 
 </div>
@@ -77,8 +70,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=100&section=footer" width="100%" />
 
-<sub>built by 5l41dev · thanks for stopping by</sub>
+<sub>5l41dev · building things worth building.</sub>
 
 </div>
